@@ -1,2 +1,2 @@
-# sparkisnaps
+# SparkiSnaps
 SparkiSnaps 
